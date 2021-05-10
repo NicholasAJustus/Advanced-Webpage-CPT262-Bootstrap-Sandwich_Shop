@@ -1,0 +1,21 @@
+main{
+	padding-top: 100px;
+}
+text-white{
+	color: white;
+}
+.popover-margin-top{
+      margin-top: 220px;
+}
+.fullscreen{
+    min-height: 100vh;
+}
+.navbar-space{
+    padding-top: 310px;
+}
+
+@media only screen and (min-width: 576px) {
+    .navbar-space{
+        padding-top: 110px;
+    }
+}
